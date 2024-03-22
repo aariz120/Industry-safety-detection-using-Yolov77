@@ -9,6 +9,12 @@
 
 ## Workflow
 '''
+. constant
+. config_entity
+. artifact_entity
+. components
+. pipeline
+. app.py
 '''
 
 # Live materials docs
@@ -24,6 +30,12 @@ git commit -m "Updated"
 
 git push origin main
 '''
+
+## AWS Configuration
+
+# aws cli download link: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+aws configure
 
 # How to run?
 '''
